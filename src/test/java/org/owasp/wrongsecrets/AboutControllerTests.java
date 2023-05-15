@@ -24,6 +24,7 @@ class AboutControllerTests {
     @Test
     void shouldGetAbout(){
         var restTemplate = builder.build();
+        var testVar = 1;
 
         var callbackAdress = "http://localhost:" + port + "/about";
         try {
