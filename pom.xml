@@ -51,7 +51,7 @@
         <aws.sdk.version>2.20.56</aws.sdk.version>
         <asciidoctorj.version>2.5.8</asciidoctorj.version>
         <jruby.version>9.4.2.0</jruby.version>
-        <bootstrap.version>5.2.3</bootstrap.version>
+        <bootstrap.version>5.3.2</bootstrap.version>
         <github.button.version>2.14.1</github.button.version>
         <datatables.version>1.13.2</datatables.version>
         <gcp.sdk.version>4.2.0</gcp.sdk.version>
